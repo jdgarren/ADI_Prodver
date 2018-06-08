@@ -185,7 +185,3 @@ except:
 
 
 browser.quit()
-
-
-
-f=open("guru99.txt", "r")
